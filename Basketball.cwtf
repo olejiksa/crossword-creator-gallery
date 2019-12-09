@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<head>
+	<word>
+		<ID>0</ID>
+		<answer>rebound</answer>
+		<question>Ball that bounces off the rim or backboard when the slot is missed</question>
+	</word>
+	<word>
+		<ID>1</ID>
+		<answer>harlem</answer>
+		<question>The Globethrottler&apos;s home city is...</question>
+	</word>
+	<word>
+		<ID>2</ID>
+		<answer>two</answer>
+		<question>A field goal made from inside the 3-point line is worth ... points</question>
+	</word>
+	<word>
+		<ID>3</ID>
+		<answer>offensive</answer>
+		<question>From court: the ... team&apos;s side of the court</question>
+	</word>
+	<word>
+		<ID>4</ID>
+		<answer>five</answer>
+		<question>In high school or college basketball, a player is disqualified after commiting ... personal fouls</question>
+	</word>
+	<word>
+		<ID>5</ID>
+		<answer>quarters</answer>
+		<question>In professional basketball, a game lasts for four 12-minute...</question>
+	</word>
+	<word>
+		<ID>6</ID>
+		<answer>zone</answer>
+		<question>The two type of defense in basketball are ... and man-to-man</question>
+	</word>
+	<word>
+		<ID>7</ID>
+		<answer>center</answer>
+		<question>A standard basketball team consists of two guards, two forwards, and a...</question>
+	</word>
+	<word>
+		<ID>8</ID>
+		<answer>goaltending</answer>
+		<question>Illegal interfence with the ball when the ball is above the basket</question>
+	</word>
+	<word>
+		<ID>9</ID>
+		<answer>backcourt</answer>
+		<question>The defensive team&apos;s side of the court</question>
+	</word>
+	<word>
+		<ID>10</ID>
+		<answer>technical</answer>
+		<question>An individual player can commit a personal foul or a ... foul</question>
+	</word>
+	<word>
+		<ID>11</ID>
+		<answer>fifteen</answer>
+		<question>In professional basketball, the halftime break lasts for ... minutes</question>
+	</word>
+	<word>
+		<ID>12</ID>
+		<answer>defense</answer>
+		<question>The team that does not have the ball is on...</question>
+	</word>
+</head>

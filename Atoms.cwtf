@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<head>
+	<word>
+		<ID>0</ID>
+		<answer>nuclearfission</answer>
+		<question>Splitting of an atomic nucleus into two smaller nuclei of approximately equal mass</question>
+	</word>
+	<word>
+		<ID>1</ID>
+		<answer>staticelectricity</answer>
+		<question>Type of electricity that comes from stationary electrical charges</question>
+	</word>
+	<word>
+		<ID>2</ID>
+		<answer>electron</answer>
+		<question>Negatively charged particle with an atom</question>
+	</word>
+	<word>
+		<ID>3</ID>
+		<answer>gammaradiation</answer>
+		<question>A type of radiation similar to x-rays; not composed of particles</question>
+	</word>
+	<word>
+		<ID>4</ID>
+		<answer>franklin</answer>
+		<question>Benjamin ... conducted a static electricity experiment with a key and a kite</question>
+	</word>
+	<word>
+		<ID>5</ID>
+		<answer>mass</answer>
+		<question>“Amu” stands for atomic ... unit</question>
+	</word>
+	<word>
+		<ID>6</ID>
+		<answer>neutron</answer>
+		<question>Neutral particle within nucleus of an atom</question>
+	</word>
+	<word>
+		<ID>7</ID>
+		<answer>atomicnumber</answer>
+		<question>The number representing the number of protons in the nucleus of an atom</question>
+	</word>
+	<word>
+		<ID>8</ID>
+		<answer>nuclearfusion</answer>
+		<question>The joining of two atomic nuclei to form a single nucleus of greater mass</question>
+	</word>
+	<word>
+		<ID>9</ID>
+		<answer>atom</answer>
+		<question>Made of electrons, neutrons, and protons</question>
+	</word>
+	<word>
+		<ID>10</ID>
+		<answer>anion</answer>
+		<question>Negative ion</question>
+	</word>
+	<word>
+		<ID>11</ID>
+		<answer>cathoderay</answer>
+		<question>Stream of particles originating from a cathode</question>
+	</word>
+	<word>
+		<ID>12</ID>
+		<answer>radioactivity</answer>
+		<question>Spontaneous emission of radiation from an atom</question>
+	</word>
+	<word>
+		<ID>13</ID>
+		<answer>proton</answer>
+		<question>Positively charged particle within an atom</question>
+	</word>
+	<word>
+		<ID>14</ID>
+		<answer>nucleus</answer>
+		<question>Concentrated core of an atom</question>
+	</word>
+</head>

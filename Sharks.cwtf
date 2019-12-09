@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<head>
+	<word>
+		<ID>0</ID>
+		<answer>hammerhead</answer>
+		<question>This shark has eyes and nostrils as far as a yard apart to help it sniff out lunch</question>
+	</word>
+	<word>
+		<ID>1</ID>
+		<answer>goblin</answer>
+		<question>These sharks live in very deep water</question>
+	</word>
+	<word>
+		<ID>2</ID>
+		<answer>teeth</answer>
+		<question>Most common shark fossils</question>
+	</word>
+	<word>
+		<ID>3</ID>
+		<answer>plankton</answer>
+		<question>Tiny food for big sharks</question>
+	</word>
+	<word>
+		<ID>4</ID>
+		<answer>smell</answer>
+		<question>Two thirds of the sharks brain is dedicated to this sense</question>
+	</word>
+	<word>
+		<ID>5</ID>
+		<answer>whale</answer>
+		<question>The biggest shark in the world is also the biggest fish</question>
+	</word>
+	<word>
+		<ID>6</ID>
+		<answer>three</answer>
+		<question>Number of eyelids some sharks have</question>
+	</word>
+	<word>
+		<ID>7</ID>
+		<answer>cookiecutter</answer>
+		<question>This shark chops round holes from its victim bodies</question>
+	</word>
+	<word>
+		<ID>8</ID>
+		<answer>mako</answer>
+		<question>This shark is the fastest swimmer at about 43 miles per hour</question>
+	</word>
+	<word>
+		<ID>9</ID>
+		<answer>tiger</answer>
+		<question>This shark eats almost anything!</question>
+	</word>
+	<word>
+		<ID>10</ID>
+		<answer>greatwhite</answer>
+		<question>This shark has attacked people more times than any other</question>
+	</word>
+	<word>
+		<ID>11</ID>
+		<answer>bull</answer>
+		<question>This shark can swim in fresh water and salt water</question>
+	</word>
+	<word>
+		<ID>12</ID>
+		<answer>thresher</answer>
+		<question>This shark has a ten foot tail it uses to round up fish</question>
+	</word>
+	<word>
+		<ID>13</ID>
+		<answer>pup</answer>
+		<question>A baby shark is called a...</question>
+	</word>
+</head>
